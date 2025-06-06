@@ -40,10 +40,13 @@ class ECommerceScreen extends StatelessWidget {
           backgroundColor: const Color.fromARGB(255, 223, 213, 199),
           items: const [
             BottomNavigationBarItem(
-              icon: Icon(Icons.home),
+              icon: Icon(Icons.home, color: Color.fromARGB(255, 137, 81, 18)),
               label: 'Beranda',
             ),
-            BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Akun'),
+            BottomNavigationBarItem(
+                icon:
+                    Icon(Icons.person, color: Color.fromARGB(255, 137, 81, 18)),
+                label: 'Akun'),
           ]),
       body: SingleChildScrollView(
         //menggunakan SingleChildScrollView biar bisa scroll
