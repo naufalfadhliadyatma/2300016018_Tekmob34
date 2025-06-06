@@ -95,7 +95,7 @@ class ECommerceScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   const Text(
-                    'Sepatu Running',
+                    'HUAWEI WATCH FIT 4',
                     style: TextStyle(
                       fontSize: 18.0,
                       fontWeight: FontWeight.bold,
@@ -117,7 +117,7 @@ class ECommerceScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       const Text(
-                        'Rp 750.000',
+                        'Rp 1.550.000',
                         style: TextStyle(
                           color: Color.fromARGB(255, 8, 44, 73),
                           fontSize: 16.0,
@@ -179,7 +179,7 @@ class ECommerceScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   const Text(
-                    'Tas Ransel',
+                    'POCO X7 Pro 5G',
                     style: TextStyle(
                       fontSize: 18.0,
                       fontWeight: FontWeight.bold,
@@ -192,8 +192,9 @@ class ECommerceScreen extends StatelessWidget {
                       Icon(Icons.star, color: Colors.amber, size: 16),
                       Icon(Icons.star, color: Colors.amber, size: 16),
                       Icon(Icons.star, color: Colors.amber, size: 16),
+                      Icon(Icons.star, color: Colors.amber, size: 16),
                       SizedBox(width: 4.0),
-                      Text('4.6 (250 ulasan)',
+                      Text('4.9 (250 ulasan)',
                           style: TextStyle(color: Colors.white)),
                     ],
                   ),
@@ -202,7 +203,7 @@ class ECommerceScreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       const Text(
-                        'Rp 350.000',
+                        'Rp 3.340.000',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 16.0,
@@ -252,7 +253,7 @@ class ECommerceScreen extends StatelessWidget {
               child: Column(
                 children: [
                   Text(
-                    'Dapatkan Penawaran Terbaik untuk Sepatu & Ransel Premium!\nBelanja Sekarang dan Tampil Lebih Percaya Diri!',
+                    'Dapatkan Penawaran Terbaik untuk Gebyar Elektronik Premium!\nBelanja Sekarang dan Tampil Lebih Percaya Diri!',
                     textAlign: TextAlign.center,
                     style: GoogleFonts.bowlbyOneSc(
                       fontSize: 18.0,
